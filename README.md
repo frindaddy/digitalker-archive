@@ -1,10 +1,12 @@
-# Digitalker Archive
+# Digitalker Audio Archive
 
-This repository is an audio archive of the National Semiconductor DT1050 Digitalker speech synthesizer.
+This repository is an audio archive of the National Semiconductor MM54104 Mozer Digitalker speech synthesis integrated circuit system. The system was developed in the late 1970s and early 1980s, and allowed early computer to output remarkably clear human speech by sequencing pre-recorded word ROMs. Multiple ROMs were released with varying vocabularies before the product was discontinued around 1990.
+
+This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip. ROM dumps can be found on [The Internet Archive](https://archive.org/details/digitalker).
 
 ## How to use
 
-Each possible digitalker word is uploaded as its own `.mp3` file, and its track number is the index in Digitalker ROM. Each ROM is separated into its own folder.
+Each Digitalker word is uploaded as its own `.mp3` file, and its track number is the word's index in ROM. Each ROM's vocabulary is separated into its own folder.
 
 ## Availible ROMs
 
