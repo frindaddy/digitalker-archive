@@ -1,4 +1,4 @@
-# Digitalker™ Archive
+# Digitalker Archive
 
 This repository is an audio archive of the National Semiconductor DT1050 Digitalker™ speech synthesizer.
 
